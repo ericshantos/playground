@@ -2,17 +2,9 @@
 
 # Flower Species Clustering: Unsupervised Learning with PCA and K-Means
 
-<div style="display: flex; gap: 10px;">
-    <a href="https://colab.research.google.com/github/ericshantos/playground/blob/main/projects/specie_flowers/specie_flowers_clustering.ipynb">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
-    </a>
-    <a href="https://nbviewer.jupyter.org/github/ericshantos/playground/blob/main/projects/specie_flowers/specie_flowers_clustering.ipynb">
-        <img src="https://img.shields.io/badge/Run%20in-Jupyter-orange" alt="Run in Jupyter" />
-    </a>
-    <a href="https://opensource.org/licenses/MIT">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
-    </a>
-</div>
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericshantos/playground/blob/main/projects/specie_flowers/specie_flowers_clustering.ipynb)
+[![Runs in Jupyter](https://img.shields.io/badge/Run%20in-Jupyter-orange)](https://nbviewer.jupyter.org/github/ericshantos/playground/blob/main/projects/specie_flowers/specie_flowers_clustering.ipynb)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 <br>
 

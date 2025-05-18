@@ -1,20 +1,20 @@
 <h1 align='center'>🧑‍💻 Modelo de Previsão de Dígitos Manuscritos (MNIST)</h1>
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <a href="https://colab.research.google.com/github/ericshantos/playground/blob/main/projects/MNIST_Predictor/MNIST_Predictor.ipynb">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab" />
-    </a>
-    <a href="https://nbviewer.jupyter.org/github/ericshantos/playground/blob/main/projects/MNIST_Predictor/MNIST_Predictor.ipynb">
-        <img src="https://img.shields.io/badge/Run%20in-Jupyter-orange" alt="Executar no Jupyter" />
-    </a>
-    <a href="https://opensource.org/licenses/MIT">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://colab.research.google.com/github/ericshantos/playground/blob/main/projects/MNIST_Predictor/MNIST_Predictor.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abir no Colab" />
+  </a>
+  <a href="https://nbviewer.jupyter.org/github/ericshantos/playground/blob/main/projects/MNIST_Predictor/MNIST_Predictor.ipynb">
+    <img src="https://img.shields.io/badge/Run%20in-Jupyter-orange" alt="Executar no Jupyter" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="Licença" />
+  </a>
+</p>
 
-<div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" alt="MNIST Sample" style="max-width: 100%; height: auto;" />
-</div>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" alt="MNIST Sample" width="400"/>
+</p>
 
 Este projeto implementa um modelo de Rede Neural Convolucional (CNN) para classificação de dígitos manuscritos utilizando o conjunto de dados MNIST. O modelo alcança uma acurácia de **98.52%** no conjunto de teste.
 

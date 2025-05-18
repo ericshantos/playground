@@ -2,17 +2,9 @@
 
 # 🛠️ Prevendo o Preço de Vendas com Base na Quantidade Vendida
 
-<div style="display: flex; gap: 10px;">
-    <a href="https://colab.research.google.com/github/ericshantos/playground/blob/main/projects/product_value_forecast/product_value_forecast.ipynb">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab" />
-    </a>
-    <a href="https://nbviewer.jupyter.org/github/ericshantos/playground/blob/main/projects/product_value_forecast/product_value_forecast.ipynb">
-        <img src="https://img.shields.io/badge/Run%20in-Jupyter-orange" alt="Executar no Jupyter" />
-    </a>
-    <a href="https://opensource.org/licenses/MIT">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="Licença" />
-    </a>
-</div>
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericshantos/playground/blob/main/projects/product_value_forecast/product_value_forecast.ipynb)
+[![Executar no Jupyter](https://img.shields.io/badge/Run%20in-Jupyter-orange)](https://nbviewer.jupyter.org/github/ericshantos/playground/blob/main/projects/product_value_forecast/product_value_forecast.ipynb)
+[![Licença](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 <br>
 
